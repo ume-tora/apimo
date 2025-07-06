@@ -1,1 +1,1 @@
-Fix build errors
+Fix: Use craco for PostCSS and fix Sanity fetch call
