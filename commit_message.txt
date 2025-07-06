@@ -1,1 +1,1 @@
-Fix: Use craco for PostCSS and fix Sanity fetch call
+Fix: Suppress TypeScript error for Sanity fetch
