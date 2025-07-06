@@ -1,1 +1,1 @@
-Fix: Suppress TypeScript error for Sanity fetch
+Fix: Add excerpt field to post schema
